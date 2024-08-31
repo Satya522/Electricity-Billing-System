@@ -1,8 +1,5 @@
 # Electricity-Billing-management-System
 
-```markdown
-# Electricity Billing System
-
 ## Description
 The Electricity Billing System is a Java-based application designed to manage and automate the billing process for electricity usage. It provides functionalities for customer management, bill calculation, payment processing, and report generation.
 
